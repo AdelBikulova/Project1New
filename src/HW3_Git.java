@@ -10,12 +10,12 @@ public class HW3_Git {
 
         double radius = 8;
         double area = areaCircle(radius);
-        System.out.println( "Area is: " + area);
+        System.out.println("Area is: " + area);
 
     }
-    static double areaCircle (double radius) {
 
-        double pi = 3.14;
+    static double areaCircle(double radius) {
+
         double area = 3.14 * (radius * radius);
         return area;
 
