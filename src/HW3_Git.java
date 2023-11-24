@@ -17,7 +17,6 @@ public class HW3_Git {
 
         double pi = 3.14;
         double area = 3.14 * (radius * radius);
-
         return area;
 
     }
