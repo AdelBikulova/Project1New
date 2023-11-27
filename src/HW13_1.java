@@ -16,14 +16,12 @@ public class HW13_1 {
         for (int i = 0; i < fruits.length; i++) {
             System.out.println("fruits [" + i + "] = " + fruits[i]);
         }
+        System.out.println();
 
         fruits[1] = "Kiwi";
-        System.out.println("with Kiwi");
         for (int i = 0; i < fruits.length; i++) {
             System.out.println("fruits [" + i + "] = " + fruits[i]);
 
         }
     }
-
-
 }
